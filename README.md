@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on ADFS and SSO in general
-- 🌱 I’m currently learning Docusaurus, markdown, CSS, React
+- 🌱 I’m currently learning Node.js
 - 🤔 I’m looking for help with beginner web development
 - 💬 Ask me about drumming, PowerShell, history
 - 📫 How to reach me: `anthony@anthonycastaneda.com`
