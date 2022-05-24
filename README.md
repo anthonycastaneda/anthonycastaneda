@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with beginner web development and JavaScript
 - 🐍 Should I learn Python?
 - 💬 Ask me about drumming, PowerShell, history
-- 📫 How to reach me: `anthony@anthonycastaneda.com`
 - ✨ Pronouns: He / Him
 - 🌊 Fun fact: I have a mild case of thalassophobia
 
